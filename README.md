@@ -1,45 +1,59 @@
-## Hi there 👋
+## 👋 Hi, I'm Grace Sunday!
 
-<!--
-**Gracesunday16/Gracesunday16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👩🏽‍💻 About Me
 
-Here are some ideas to get you started:
+I’m Grace Sunday, a passionate and detail-oriented Data Analyst with a background in pharmaceutical microbiology and research. I specialize in turning raw data into actionable insights that help organizations make informed, data-driven decisions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My journey into analytics is fueled by curiosity, continuous learning, and a deep desire to solve real-world problems through data. Whether it's cleaning complex datasets, building dashboards, or uncovering trends with SQL, I find purpose in every line of code and every visual I create.
 
-# 👋 Hi, I'm Grace Sunday!
+With a strong foundation in tools like Python, SQL, Excel, Looker Studio, Tableau, and BigQuery, I’ve built projects that measure business performance, campaign effectiveness, and operational efficiency. I have also completed a professional data analytics training that equips me with real-industry projects and collaboration experience.
 
-🔹 About Me
-  I'm a passionate **Data Analyst** focused on transforming raw data into powerful insights that drive business decisions. 
+## 🎯 Mission
 
-- 🔭 I’m currently working on: Promo Impact Dashboard
-- 🌱 I’m learning: 📌 Storytelling with Data for Business Intelligence 
-- 💬 Ask me about: Data analytics, SQL, dashboard design
+To empower businesses and communities to make smarter decisions through meaningful data analytics.  
 
-### 🔧 Tools & Technologies
+I aim to bridge the gap between raw data and business value by delivering clean, clear, and actionable insights through engaging visualizations and efficient reporting tools.
+
+I believe that every dataset tells a story, and my goal is to help businesses listen, understand, and act.
+
+## 🌟 Vision
+
+To become a high-impact data and business intelligence analyst, known for crafting data solutions that improve decision-making, performance, and growth.
+
+I aspire to work on innovative projects that combine data, strategy, and human insight to create value in industries like healthcare, retail, and development.
+
+In the long run, I envision mentoring young analysts, contributing to open-source data communities, and leading data projects that drive social change and business transformation.
+
+## 🔧 Tools & Technologies
 ![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
+
 ![SQL](https://img.shields.io/badge/-SQL-333?style=flat&logo=mysql)
+
 ![Excel](https://img.shields.io/badge/-Excel-333?style=flat&logo=microsoft-excel) 
+
 ![Looker Studio](https://img.shields.io/badge/-Looker_Studio-333?style=flat&logo=google) 
+
 ![Tableau](https://img.shields.io/badge/-Tableau-333?style=flat&logo=tableau) 
+
 ![BigQuery](https://img.shields.io/badge/-BigQuery-333?style=flat&logo=googlecloud)
+
 ![Statistics](https://img.shields.io/badge/-Statistical_Analysis-333?style=flat) 
 
 ## 📊 Featured Projects
 🔹 **[Promo Impact Dashboard](https://github.com/Gracesunday16/promo-impact-dashboard)** *Analyzing the effectiveness of promotions by category to track ROI, sales lift, and revenue performance.* -
-🔹 **[Restaurant Performance Analysis](https://github.com/Gracesunday16/restaurant-analysis)** *Insights into restaurant sales and customer behavior using Python* --- 
+
+🔹 **[Restaurant Performance Analysis](https://github.com/Gracesunday16/restaurant-data-analytics-.git)** *Insights into restaurant sales and customer behavior using Python* --- 
 
 
-### 💬 Let's Connect 📫 
+- 🔭 I’m currently working on: Promo Impact Dashboard
+ 
+- 🌱 I’m learning: 📌 Storytelling with Data for Business Intelligence 
+
+- 💬 Ask me about: Data analytics, SQL, dashboard design
+
+## 💬 Let's Connect 📫 
 [LinkedIn](https://www.linkedin.com/in/grace-sunday-b2b0622a6)
+
 📧 Email: gracesunday16@gmail.com
 
 *“Data is the new oil. But it's crude unless you refine it.” – Grace Sunday* 
