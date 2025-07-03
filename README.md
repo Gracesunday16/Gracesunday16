@@ -25,19 +25,13 @@ I aspire to work on innovative projects that combine data, strategy, and human i
 In the long run, I envision mentoring young analysts, contributing to open-source data communities, and leading data projects that drive social change and business transformation.
 
 ## 🔧 Tools & Technologies
-![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
-
-![SQL](https://img.shields.io/badge/-SQL-333?style=flat&logo=mysql)
-
-![Excel](https://img.shields.io/badge/-Excel-333?style=flat&logo=microsoft-excel) 
-
-![Looker Studio](https://img.shields.io/badge/-Looker_Studio-333?style=flat&logo=google) 
-
-![Tableau](https://img.shields.io/badge/-Tableau-333?style=flat&logo=tableau) 
-
-![BigQuery](https://img.shields.io/badge/-BigQuery-333?style=flat&logo=googlecloud)
-
-![Statistics](https://img.shields.io/badge/-Statistical_Analysis-333?style=flat) 
+-Python
+-SQL
+-Excel
+-Looker Studio
+-Tableau
+-BigQuery
+-Statistical Data Analytics
 
 ## 📊 Featured Projects
 🔹 **[Promo Impact Dashboard](https://github.com/Gracesunday16/promo-impact-dashboard)** *Analyzing the effectiveness of promotions by category to track ROI, sales lift, and revenue performance.* -
@@ -45,11 +39,9 @@ In the long run, I envision mentoring young analysts, contributing to open-sourc
 🔹 **[Restaurant Performance Analysis](https://github.com/Gracesunday16/restaurant-data-analytics-.git)** *Insights into restaurant sales and customer behavior using Python* --- 
 
 
-- 🔭 I’m currently working on: Promo Impact Dashboard
+- 🔭 I’m currently working on: Data Analytics Projects
  
-- 🌱 I’m learning: 📌 Storytelling with Data for Business Intelligence 
-
-- 💬 Ask me about: Data analytics, SQL, dashboard design
+- 💬 Ask me about: Data Analytics, SQL, Dashboard Design
 
 ## 💬 Let's Connect 📫 
 [LinkedIn](https://www.linkedin.com/in/grace-sunday-b2b0622a6)
