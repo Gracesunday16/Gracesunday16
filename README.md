@@ -25,18 +25,27 @@ I aspire to work on innovative projects that combine data, strategy, and human i
 In the long run, I envision mentoring young analysts, contributing to open-source data communities, and leading data projects that drive social change and business transformation.
 
 ## 🔧 Tools & Technologies
--Python
--SQL
--Excel
--Looker Studio
--Tableau
--BigQuery
--Statistical Data Analytics
+- Python
+
+- SQL
+  
+- Excel
+  
+- Looker Studio
+  
+- Tableau
+  
+- Google BigQuery
+  
+- Statistical Data Analytics
 
 ## 📊 Featured Projects
-🔹 **[Promo Impact Dashboard](https://github.com/Gracesunday16/promo-impact-dashboard)** *Analyzing the effectiveness of promotions by category to track ROI, sales lift, and revenue performance.* -
 
-🔹 **[Restaurant Performance Analysis](https://github.com/Gracesunday16/restaurant-data-analytics-.git)** *Insights into restaurant sales and customer behavior using Python* --- 
+🔹 **[Inventory Management Project using SQL and Looker Studio](https://github.com/Gracesunday16/inventory-analysis-using-SQL-and-Looker-studio)**
+
+🔹 **[Promo Impact Dashboard using Excel, Looker Studio and Google Sheets](https://github.com/Gracesunday16/marketing-promotion-analysis)** *Analyzing the effectiveness of promotions by category to track ROI and revenue performance.* -
+
+🔹 **[Restaurant Performance Analysis using Python](https://github.com/Gracesunday16/restaurant-data-analytics-.git)** *Insights into restaurant sales and customer behavior using Python* --- 
 
 
 - 🔭 I’m currently working on: Data Analytics Projects
